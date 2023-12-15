@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DatabaseToolSources">
+    <data-source name="db/sqlite3" uuid="ecd2dca9-5448-4e51-99d6-3466f1b40d5c" type="SQLITE">
+      <base-info connect-type="DB_DEFAULT" product="SQLite" version="3.43.0" jdbc-name="SQLite JDBC" jdbc-version="3.43.0.0" />
+      <user-name />
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema">
+            <name qname="main" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+      <url>jdbc:sqlite:C:/Users/Алберт/Documents/Работы/сайты/django-basics-record/django-basics-record/db.sqlite3</url>
+      <remarks />
+      <vm-options />
+      <driver-info id="sqlite.xerial" />
+      <ssh-properties enabled="false" />
+      <jdbc-additional-properties>
+        <property name="enable_load_extension" value="true" />
+      </jdbc-additional-properties>
+      <ssl-config enabled="false">
+        <uuid />
+        <caFile />
+        <clientCertificateFile />
+        <clientKeyFile />
+        <sslMode>REQUIRE</sslMode>
+      </ssl-config>
+    </data-source>
+  </component>
+</project>
